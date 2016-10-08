@@ -14,7 +14,7 @@ vagrant:
     type: virtualbox
   platforms:
   - name: default
-    box: {{ vagrantbox }}
+    box: {{ VagrantBox }}
   instances:
   - name: ansible-role-{{ Name }}
     options:

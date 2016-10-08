@@ -4,5 +4,4 @@
     -   id: check-added-large-files
     -   id: check-json
     -   id: check-xml
-    -   id: check-yaml
     -   id: check-merge-conflict
