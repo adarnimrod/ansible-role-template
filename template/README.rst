@@ -1,9 +1,7 @@
-Example
+{{ Name }}
 #######
 
-An (empty) example Ansible role complete with working tests out of the box. For
-more information read the `blog post
-<https://www.shore.co.il/blog/ansible-example-role/>`_.
+{{ Description }}
 
 Requirements
 ------------
@@ -43,8 +41,8 @@ To run the full test suite:
 License
 -------
 
-This software is licensed under the MIT license (see the :code:`LICENSE.txt`
-file).
+This software is licensed under the {{ License }} license (see the 
+:code:`LICENSE.txt` file).
 
 Author Information
 ------------------

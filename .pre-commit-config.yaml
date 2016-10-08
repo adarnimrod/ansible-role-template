@@ -1,0 +1,8 @@
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    sha: 6dfcb89af3c9b4d172cc2e5a8a2fa0f54615a338
+    hooks:
+    -   id: check-added-large-files
+    -   id: check-json
+    -   id: check-xml
+    -   id: check-yaml
+    -   id: check-merge-conflict

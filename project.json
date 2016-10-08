@@ -1,11 +1,12 @@
 {
-    "Name": "License Template",
-    "Description": "Template to create licences for projects very easily",
-    "Author": "Tamer Tas",
-    "Year": "2015",
+    "Name": "rolename",
+    "Description": "Template to quickly create Ansible roles",
+    "Author": "Nimrod Adar",
+    "Year": "2016",
     "License": [
         "Apache Software License 2.0",
         "MIT", 
         "GNU GPL v3.0"
-    ]
+    ],
+    "vagrantbox": "debian/jessie64"
 }

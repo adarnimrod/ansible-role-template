@@ -1,15 +1,8 @@
 galaxy_info:
-  author: Nimrod Adar
-  description: An example Ansible role
-  company: Shore technologies
-  license: MIT
+  author: {{ Author }}
+  description: {{ Author }}
+  license: {{ License }}
   min_ansible_version: 2.0
   platforms:
-  - name: OpenBSD
-    versions:
-    - 5.9
-  galaxy_tags: [ ansible ]
-dependencies:
-    - src: https://www.shore.co.il/git/ansible-role-openbsd-bootstrap
-      scm: git
-      role: openbsd_bootstrap
+  galaxy_tags: []
+dependencies: []
